@@ -292,7 +292,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:grid lg:grid-cols-2 lg:gap-16 items-center">
             <div>
-              <h2 className="text-4xl font-bold text-gray-900 mb-6">Despre TechPro</h2>
+              <h2 className="text-4xl font-bold text-gray-900 mb-6">Despre Vision IT</h2>
               <p className="text-lg text-gray-600 mb-6">
                 Suntem o echipă pasionată de dezvoltatori cu peste 5 ani de experiență în crearea de soluții software inovatoare. Ne specializăm în transformarea ideilor în produse digitale care ajută companiile să își atingă obiectivele.
               </p>
@@ -441,15 +441,15 @@ function App() {
                 <div className="space-y-6">
                   <div className="flex items-center text-white">
                     <Phone className="w-6 h-6 mr-4" />
-                    <span>+40 123 456 789</span>
+                    <span>+40 755 950 879</span>
                   </div>
                   <div className="flex items-center text-white">
                     <Mail className="w-6 h-6 mr-4" />
-                    <span>contact@techpro.ro</span>
+                    <span>vision.it.sof@gmail.com</span>
                   </div>
                   <div className="flex items-center text-white">
                     <MapPin className="w-6 h-6 mr-4" />
-                    <span>București, România</span>
+                    <span>Adjud Vrancea, România</span>
                   </div>
                 </div>
               </div>
@@ -544,7 +544,7 @@ function App() {
                 <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
                   <Code className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold">TechPro</span>
+                <span className="text-xl font-bold">Vision IT</span>
               </div>
               <p className="text-gray-400">
                 Transformăm ideile în soluții digitale de succes.
@@ -571,14 +571,14 @@ function App() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>+40 123 456 789</li>
-                <li>contact@techpro.ro</li>
-                <li>București, România</li>
+                <li>+40 755 950 879</li>
+                <li>vision.it.sof@gmail.com</li>
+                <li>Adjud Vrancea, România</li>
               </ul>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 TechPro. Toate drepturile rezervate.</p>
+            <p>&copy; 2025 Vision IT. Toate drepturile rezervate.</p>
           </div>
         </div>
       </footer>
