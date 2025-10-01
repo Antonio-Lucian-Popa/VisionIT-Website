@@ -101,7 +101,8 @@ function App() {
       title: "Trading and Investment Platform",
       category: "Web Site",
       image: odogwuSite,
-      tech: ["Angular", "Java", "PostgreSQL"]
+      tech: ["Angular", "Java", "PostgreSQL"],
+      link: "https://odogwu-web.netlify.app/"
     }
   ];
 
@@ -372,6 +373,11 @@ function App() {
                       </span>
                     ))}
                   </div>
+                  {project.link && (
+                    <a href={project.link} className="inline-block mt-4 text-blue-600 hover:underline">
+                      Vezi proiectul
+                    </a>
+                  )}
                 </div>
               </div>
             ))}
