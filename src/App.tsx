@@ -292,7 +292,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:grid lg:grid-cols-2 lg:gap-16 items-center">
             <div>
-              <h2 className="text-4xl font-bold text-gray-900 mb-6">Despre Vision IT</h2>
+              <h2 className="text-4xl font-bold text-gray-900 mb-6">Despre Vision Soft</h2>
               <p className="text-lg text-gray-600 mb-6">
                 Suntem o echipă pasionată de dezvoltatori cu peste 5 ani de experiență în crearea de soluții software inovatoare. Ne specializăm în transformarea ideilor în produse digitale care ajută companiile să își atingă obiectivele.
               </p>
@@ -544,7 +544,7 @@ function App() {
                 <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
                   <Code className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold">Vision IT</span>
+                <span className="text-xl font-bold">Vision Soft</span>
               </div>
               <p className="text-gray-400">
                 Transformăm ideile în soluții digitale de succes.
@@ -578,7 +578,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Vision IT. Toate drepturile rezervate.</p>
+            <p>&copy; 2025 Vision Soft. Toate drepturile rezervate.</p>
           </div>
         </div>
       </footer>
