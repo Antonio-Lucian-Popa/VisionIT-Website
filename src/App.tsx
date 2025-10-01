@@ -374,7 +374,7 @@ function App() {
                     ))}
                   </div>
                   {project.link && (
-                    <a href={project.link} className="inline-block mt-4 text-blue-600 hover:underline">
+                    <a href={project.link} target="_blank" rel="noopener noreferrer" className="inline-block mt-4 text-blue-600 hover:underline">
                       Vezi proiectul
                     </a>
                   )}
