@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { ChevronRight, Code, Smartphone, Globe, Users, Star, Mail, Phone, MapPin, Menu, X, ArrowRight, CheckCircle, Zap, Shield, Target, Award } from 'lucide-react';
+import odogwuSite from "./assets/odogwu-site.png";
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -97,9 +98,9 @@ function App() {
       tech: ["React Native", "Firebase", "TypeScript"]
     },
     {
-      title: "Sistem ERP",
-      category: "Enterprise Software",
-      image: "https://images.pexels.com/photos/590016/pexels-photo-590016.jpg?auto=compress&cs=tinysrgb&w=800",
+      title: "Trading and Investment Platform",
+      category: "Web Site",
+      image: odogwuSite,
       tech: ["Angular", "Java", "PostgreSQL"]
     }
   ];
