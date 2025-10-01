@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { ChevronRight, Code, Smartphone, Globe, Users, Star, Mail, Phone, MapPin, Menu, X, ArrowRight, CheckCircle, Zap, Shield, Target, Award } from 'lucide-react';
 import odogwuSite from "./assets/odogwu-site.png";
+import bankApp from "./assets/bank-app.png";
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -93,9 +94,10 @@ function App() {
     },
     {
       title: "Aplicație Banking",
-      category: "Mobile App",
-      image: "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      tech: ["React Native", "Firebase", "TypeScript"]
+      category: "Mobile/Web App",
+      image: bankApp,
+      tech: ["React js", "React Native", "Firebase", "TypeScript"],
+      link: "https://my-bank-app.netlify.app/"
     },
     {
       title: "Trading and Investment Platform",
