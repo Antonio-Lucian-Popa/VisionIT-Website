@@ -97,7 +97,7 @@ function App() {
       category: "Mobile/Web App",
       image: bankApp,
       tech: ["React js", "React Native", "Firebase", "TypeScript"],
-      link: "https://my-bank-app.netlify.app/"
+      link: "https://bank-management-app.netlify.app/"
     },
     {
       title: "Trading and Investment Platform",
